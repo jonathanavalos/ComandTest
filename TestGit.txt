@@ -1,4 +1,7 @@
 <html>
+	<head>
+		<title>Cambios realizados por otro programador</tittle>
+	</head>
 	<body>
 		<div>
 			<h3>PRUEBA COMANDOS GIT</h3>
